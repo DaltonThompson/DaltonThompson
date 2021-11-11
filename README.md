@@ -1,18 +1,8 @@
-# 👋 Hi, I’m Dalton Thompson
+# 👋 Hi, I’m Dalton Thompson, a web developer
 
-## 🌱 I love to learn, and currently am learning ...
+Check out my ongoing personal project, [Dota Scouter](https://github.com/DaltonThompson/DotaScouter "Dota Scouter, an app for scouting the game history of Dota 2 players and valuing potential decisions in the draft phase."). Although it is designed to be familiar for a specific audience, I hope its easy to understand.
 
-- JavaScript + Node + Electron (used in my on-going [Dota Scouter project](https://github.com/DaltonThompson/DotaScouter "Dota Scouter, an Electron app for reviewing the game history of Dota 2 players.")),  
-- HTML (there are a lot of tags which most people don't realize exist),  
-- CSS + Sass, and
-- Git
-
-## 👀 I’m interested in also learning...
-
-- more about CI/CD to become more comfortable around production,  
-- TypeScript for bug prevention,  
-- React to speed up HTML+JS development, and  
-- maybe even Python to start fiddling with machine learning
+I regularly use JavaScript, CSS/Sass, and HTML. I've dabbled in Node, Electron, and React, although I decided to limit myself to vanilla JS to better understand fundamentals which can be abstracted away by some popular frameworks. Consider it "walking before running." Regardless, I’m still interested in refactoring my projects with TypeScript & React.
 
 ## 📫 How to reach me ...
-Feel free to open relevant issues. Otherwise, start a chat through my [LinkedIn profile](https://www.linkedin.com/in/dalton-thompson/ "LinkedIn profile of Dalton Thompson"). 😄
+Feel free to open relevant issues on repositories. You can also start a chat through my [LinkedIn profile](https://www.linkedin.com/in/dalton-thompson/ "LinkedIn profile of Dalton Thompson").
